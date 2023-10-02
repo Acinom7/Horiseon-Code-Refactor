@@ -6,13 +6,9 @@ The purpose of this project is to improve code structure through minor adjustmen
 
 Link to Website:
 
-![Alt text](./screenshots/Screenshot%202023-10-02%20141438.png)
-![Alt text](./screenshots/Screenshot%202023-10-02%20141632.png)
-![Alt text](./screenshots/Screenshot%202023-10-02%20141726.png)
 ![Alt text](./screenshots/Screenshot%202023-10-02%20141833.png)
-![Alt text](./screenshots/Screenshot%202023-10-02%20141921.png)
-![Alt text](./screenshots/Screenshot%202023-10-02%20141957.png)
 ![Alt text](./screenshots/Screenshot%202023-10-02%20151758.png)
+![Alt text](./screenshots/Screenshot%202023-10-02%20141726.png)
 ![Alt text](./screenshots/Screenshot%202023-10-02%20151853.png)
 
 ## Installation
